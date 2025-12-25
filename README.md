@@ -19,7 +19,7 @@ A web application for precise time tracking, featuring a clean interface and res
 
 1. **Clone the repository**
 	```sh
-	git clone https://github.com/your-username/your-repo-name.git
+	git clone https://github.com/glennmarkpogi/Stopwatch.git
 	```
 2. **Navigate to the project folder**
 	```sh
@@ -40,5 +40,6 @@ A web application for precise time tracking, featuring a clean interface and res
 This project is open source and free to use.
 
 ## 🙏 Credits
+
 
 Created by Glenn Mark, December 2025.
